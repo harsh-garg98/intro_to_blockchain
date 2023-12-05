@@ -1,0 +1,25 @@
+{
+  "name": "intro_to_blockchain",
+  "version": "1.0.0",
+  "description": "learning blockchain from the url https://www.freecodecamp.org/news/introduction-to-blockchain/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh-garg98/intro_to_blockchain.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "harsh_garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh-garg98/intro_to_blockchain/issues"
+  },
+  "homepage": "https://github.com/harsh-garg98/intro_to_blockchain#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
